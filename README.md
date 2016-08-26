@@ -11,9 +11,9 @@ In this lesson, we'll introduce playground files in Xcode and how to access and 
 ## Learning Objectives
 
 * Create a new playground file using Xcode.
-* Explain that a playground file is not **necessary** to application projects. It's used solely as a place to explore, without the need to create a project.
-* Write code in the playground file
-* Be familiar with the error message that appears when trying to change a **let** constant.
+* Explain that a playground file is used solely as a place to explore code without the need to create a project
+* Write code in a playground file
+* Recognize error message that appear when trying to change a **let** constant.
 
 ## Playgrounds
 
